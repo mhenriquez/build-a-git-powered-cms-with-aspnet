@@ -17,5 +17,5 @@ These are source files for the Tuts+ course: [Build a Git-Powered CMS With ASP.N
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/build-a-git-powered-cms-with-aspnet
+[published url]: https://code.tutsplus.com/courses/build-a-cms-with-aspnet-and-git
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
